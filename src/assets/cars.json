@@ -1,0 +1,37 @@
+[
+    {
+        "name": "Accent Blue",
+        "brand": "Hyundai",
+        "image_url": "images/accent_blue.jpg"
+    },
+    {
+        "name": "Civic",
+        "brand": "Honda",
+        "image_url": "images/civic.jpg"
+    },
+    {
+        "name": "Pilot",
+        "brand": "Honda",
+        "image_url": "images/pilot.jpg"
+    },
+    {
+        "name": "X5",
+        "brand": "BMW",
+        "image_url": "images/x5.jpg"
+    },
+    {
+        "name": "Yaris",
+        "brand": "Toyota",
+        "image_url": "images/yaris.jpg"
+    },
+    {
+        "name": "Rav4",
+        "brand": "Toyota",
+        "image_url": "images/rav_4.jpg"
+    },
+    {
+        "name": "Tucson",
+        "brand": "Hyundai",
+        "image_url": "images/tucson.jpg"
+    }
+]

@@ -1,0 +1,5 @@
+<div id="cars-container"  style="text-align:center" class="row">
+  <div *ngFor="let car of this.set_of_cars | async" class="col-md-4">      
+    {{car.name}}
+  </div>
+</div>
